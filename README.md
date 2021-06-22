@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicodmk
-- It's code For Artisan Scope Coffee Roasting data logging
+- It's code For Artisan Scope Coffee Roasting data logging over Arduino uno ATmega328P.
 - use Modbus Rtu Comunication, MAX 6675 Thermocouple sensor, DHT 22 Humidity sensor and Bluetooth HC-05.
 
 <!---
